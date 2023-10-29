@@ -15,13 +15,13 @@ url = "https://github.com/Axu-abc/Axu-abc.github.io"
 [social.params]
 icon = "brand-github"
 
-[[social]]
-identifier = "bilibili"
-name = "Bilibili"
-url = "https://space.bilibili.com/628491522"
+# [[social]]
+# identifier = "bilibili"
+# name = "Bilibili"
+# url = "https://space.bilibili.com/628491522"
 
-[social.params]
-icon = "brand-bilibili"
+# [social.params]
+# icon = "brand-bilibili"
 
 # [[social]]
 # identifier = "twitter"
