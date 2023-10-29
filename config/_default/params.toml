@@ -19,7 +19,7 @@ subtitle = "This is Axu."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/atom_electronics.jpg"
 
 [article]
 math = false
